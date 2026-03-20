@@ -8,10 +8,10 @@ export const data = {
         event: {
             year: '2026',
             month: 'March',
-            date: '20',
-            day: 'Friday',
+            date: '21',
+            day: 'Saturday',
             hours: {
-                start: '13.00',
+                start: '14.00',
                 finish: 'Selesai'
             }
         },
